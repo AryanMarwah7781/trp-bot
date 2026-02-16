@@ -1,0 +1,259 @@
+{
+  "week": "Jan 20-26, 2026",
+  "matches": {
+    "2026-01-25": [
+      {
+        "home": "Arsenal",
+        "away": "Chelsea",
+        "score": "2-2",
+        "events": [
+          {
+            "minute": 16,
+            "type": "GOAL",
+            "player": "Saka",
+            "team": "Arsenal"
+          },
+          {
+            "minute": 34,
+            "type": "GOAL",
+            "player": "Palmer",
+            "team": "Chelsea"
+          },
+          {
+            "minute": 52,
+            "type": "GOAL",
+            "player": "Havertz",
+            "team": "Arsenal"
+          },
+          {
+            "minute": 78,
+            "type": "GOAL",
+            "player": "Jackson",
+            "team": "Chelsea"
+          }
+        ]
+      },
+      {
+        "home": "Liverpool",
+        "away": "Ipswich",
+        "score": "4-1",
+        "events": [
+          {
+            "minute": 12,
+            "type": "GOAL",
+            "player": "Salah",
+            "team": "Liverpool"
+          },
+          {
+            "minute": 28,
+            "type": "GOAL",
+            "player": "Gakpo",
+            "team": "Liverpool"
+          },
+          {
+            "minute": 45,
+            "type": "GOAL",
+            "player": "Szoboszlai",
+            "team": "Liverpool"
+          },
+          {
+            "minute": 67,
+            "type": "GOAL",
+            "player": "Nunez",
+            "team": "Liverpool"
+          },
+          {
+            "minute": 89,
+            "type": "GOAL",
+            "player": "Delap",
+            "team": "Ipswich"
+          }
+        ]
+      }
+    ],
+    "2026-01-26": [
+      {
+        "home": "Man City",
+        "away": "Brentford",
+        "score": "3-1",
+        "events": [
+          {
+            "minute": 8,
+            "type": "GOAL",
+            "player": "Haaland",
+            "team": "Man City"
+          },
+          {
+            "minute": 41,
+            "type": "GOAL",
+            "player": "Foden",
+            "team": "Man City"
+          },
+          {
+            "minute": 55,
+            "type": "GOAL",
+            "player": "Mbeumo",
+            "team": "Brentford"
+          },
+          {
+            "minute": 72,
+            "type": "GOAL",
+            "player": "De Bruyne",
+            "team": "Man City"
+          }
+        ]
+      },
+      {
+        "home": "Man United",
+        "away": "Brighton",
+        "score": "1-0",
+        "events": [
+          {
+            "minute": 63,
+            "type": "GOAL",
+            "player": "Fernandes",
+            "team": "Man United"
+          }
+        ]
+      }
+    ]
+  },
+  "trending_topics": [
+    {
+      "title": "Arsenal Chelsea draw - title race blown open",
+      "category": "match_action",
+      "score": 15420
+    },
+    {
+      "title": "Salah scores wondergoal against Ipswich",
+      "category": "match_action",
+      "score": 12340
+    },
+    {
+      "title": "Haaland back to scoring ways",
+      "category": "match_action",
+      "score": 8900
+    },
+    {
+      "title": "Palmer vs Saka - who is the better winger?",
+      "category": "general",
+      "score": 7800
+    },
+    {
+      "title": "VAR controversy in Arsenal vs Chelsea",
+      "category": "controversy",
+      "score": 11200
+    }
+  ],
+  "reddit_topics": [
+    {
+      "title": "Salut! I\u2019m William Saliba. Ask Me Anything!",
+      "subreddit": "Gunners",
+      "score": 6541,
+      "comments": 2177,
+      "engagement": 10895,
+      "category": "general",
+      "url": "https://reddit.com/r/Gunners/comments/1qvwatd/salut_im_william_saliba_ask_me_anything/"
+    },
+    {
+      "title": "The fact that Wataru Endo stood up to defend that corner with what can be a broken ankle or a damaged ligament. Absolute warrior, deserves all the praise he\u2019s getting.",
+      "subreddit": "LiverpoolFC",
+      "score": 6995,
+      "comments": 288,
+      "engagement": 7571,
+      "category": "general",
+      "url": "https://reddit.com/r/LiverpoolFC/comments/1r2p2ed/the_fact_that_wataru_endo_stood_up_to_defend_that/"
+    },
+    {
+      "title": "Diego Simeone showing \u201c3\u201d to Lamine Yamal in reference to the scoreline",
+      "subreddit": "soccer",
+      "score": 5301,
+      "comments": 248,
+      "engagement": 5797,
+      "category": "match_action",
+      "url": "https://reddit.com/r/soccer/comments/1r37enj/diego_simeone_showing_3_to_lamine_yamal_in/"
+    },
+    {
+      "title": "Giuliano Simeone pressing in the 97th minute",
+      "subreddit": "soccer",
+      "score": 4824,
+      "comments": 208,
+      "engagement": 5240,
+      "category": "general",
+      "url": "https://reddit.com/r/soccer/comments/1r3kpmn/giuliano_simeone_pressing_in_the_97th_minute/"
+    },
+    {
+      "title": "Rice: \"We weren\u2019t naive coming into this game, they are very good team! It might be a valuable point towards the end. Let\u2019s take the positives and keep sticking together. Everyone\u2019s needed on this road to the end\"",
+      "subreddit": "Gunners",
+      "score": 2723,
+      "comments": 328,
+      "engagement": 3379,
+      "category": "general",
+      "url": "https://reddit.com/r/Gunners/comments/1r38out/rice_we_werent_naive_coming_into_this_game_they/"
+    }
+  ],
+  "league_table": [
+    {
+      "position": 1,
+      "team": "Liverpool",
+      "played": 23,
+      "points": 58
+    },
+    {
+      "position": 2,
+      "team": "Arsenal",
+      "played": 23,
+      "points": 52
+    },
+    {
+      "position": 3,
+      "team": "Man City",
+      "played": 23,
+      "points": 49
+    },
+    {
+      "position": 4,
+      "team": "Chelsea",
+      "played": 23,
+      "points": 45
+    },
+    {
+      "position": 5,
+      "team": "Newcastle",
+      "played": 23,
+      "points": 42
+    },
+    {
+      "position": 6,
+      "team": "Aston Villa",
+      "played": 23,
+      "points": 38
+    },
+    {
+      "position": 7,
+      "team": "Tottenham",
+      "played": 23,
+      "points": 36
+    },
+    {
+      "position": 8,
+      "team": "Man United",
+      "played": 23,
+      "points": 34
+    },
+    {
+      "position": 9,
+      "team": "Fulham",
+      "played": 23,
+      "points": 32
+    },
+    {
+      "position": 10,
+      "team": "Brentford",
+      "played": 23,
+      "points": 30
+    }
+  ],
+  "youtube_highlights": [],
+  "generated_at": "2026-02-13T11:39:48.522100"
+}
